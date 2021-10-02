@@ -1,6 +1,6 @@
 import pygame, time
 
-#colores.
+#colores...
 blanco = (255,255,255)
 rojo = (200,0,0)
 rojo_tomate = (255,51,0)
